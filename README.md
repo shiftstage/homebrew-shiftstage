@@ -1,6 +1,6 @@
 # ShiftStage — Homebrew tap
 
-The Mac agent for [ShiftStage](https://shiftstage.app): your Mac's terminal, files,
+The Mac agent for [ShiftStage](https://shiftstage.app/r/github-tap): your Mac's terminal, files,
 git repositories, processes and AI coding sessions, served to native screens on your
 iPhone, iPad and Apple Watch. Not a remote desktop. The agent hands the app structured
 services, and the work itself stays on your Mac.
