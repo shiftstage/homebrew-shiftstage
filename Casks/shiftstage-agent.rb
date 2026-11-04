@@ -1,6 +1,6 @@
 cask "shiftstage-agent" do
-  version "1.0"
-  sha256 "1e125d95952e6d74d203febe03100fddd1f28e8ff291a91aaecde816be89045b"
+  version "1.0.1"
+  sha256 "fcaa6cd38d340a53339979d1f3d45de27a60ecbe77a77cb50867b8931669593b"
 
   url "https://github.com/shiftstage/homebrew-shiftstage/releases/download/v#{version}/ShiftStage-Agent-#{version}.zip"
   name "ShiftStage Agent"
